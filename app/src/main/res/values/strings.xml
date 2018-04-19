@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="tittle">Welcome</string>
+    <string name="second_tittle">Lorem ipsum dolor sit amet, consectetur adipiscing elitwe</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
